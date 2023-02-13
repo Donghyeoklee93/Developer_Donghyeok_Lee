@@ -1,1 +1,1 @@
-# Developer_Donghyeok_Lee
+# These are java source files related to studying algorithm.
